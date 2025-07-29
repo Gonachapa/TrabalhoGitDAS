@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Página Colaborativa de Receitas</title>
+</head>
+<body>
+  <!-- Página colaborativa de receitas -->
+  <h1>Página Colaborativa de Receitas</h1>
+
+  <h2>Receita de Batata-Doce Assada com Ervas e Alho</h2>
+
+  <h3>Ingredientes:</h3>
+  <ul>
+    <li>2 batatas-doces médias cortadas em palitos ou rodelas</li>
+    <li>2 colheres de sopa de azeite de oliva</li>
+    <li>2 dentes de alho picados ou amassados</li>
+    <li>1 colher de chá de alecrim seco ou fresco</li>
+    <li>1 colher de chá de tomilho (opcional)</li>
+    <li>Sal e pimenta-do-reino a gosto</li>
+    <li>Páprica doce ou picante a gosto (opcional)</li>
+  </ul>
+
+  <h3>Modo de Preparo:</h3>
+  <ol>
+    <li>Preaqueça o forno a 200 °C.</li>
+    <li>Em uma tigela, misture as batatas-doces com o azeite, o alho, as ervas, o sal, a pimenta e a páprica.</li>
+    <li>Distribua as batatas em uma assadeira forrada com papel manteiga, sem sobrepor.</li>
+    <li>Asse por cerca de 30 a 40 minutos, virando na metade do tempo, até que estejam douradas e macias por dentro.</li>
+    <li>Sirva como acompanhamento ou como petisco.</li>
+  </ol>
+
+  <h3>Rendimento:</h3>
+  <p>Serve de 2 a 3 pessoas.</p>
+
+  <h3>Dica:</h3>
+  <p>
+    Para um toque agridoce, adicione um fio de mel ou um pouco de balsâmico depois de assar.
+  </p>
+</body>
+</html>
