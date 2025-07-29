@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Feijoada Tradicional Brasileira</title>
+</head>
+<body>
+  <h1>Página Colaborativa de Receitas</h1>
+
+  <h2>Receita de Feijoada Tradicional Brasileira</h2>
+
+  <h3>Ingredientes:</h3>
+
+  <h4>Para a feijoada:</h4>
+  <ul>
+    <li>500g de feijão preto</li>
+    <li>200g de carne seca</li>
+    <li>200g de costelinha de porco salgada</li>
+    <li>150g de lombo suíno em pedaços</li>
+    <li>100g de paio fatiado</li>
+    <li>100g de linguiça calabresa fatiada</li>
+    <li>1 cebola grande picada</li>
+    <li>3 dentes de alho picados</li>
+    <li>2 folhas de louro</li>
+    <li>Sal e pimenta-do-reino a gosto</li>
+    <li>Cheiro-verde a gosto</li>
+    <li>Água suficiente para cozinhar</li>
+  </ul>
+
+  <h4>Acompanhamentos sugeridos:</h4>
+  <ul>
+    <li>Arroz branco</li>
+    <li>Farofa</li>
+    <li>Couve refogada</li>
+    <li>Laranja em rodelas</li>
+  </ul>
+
+  <h3>Modo de Preparo:</h3>
+
+  <h4>Feijoada:</h4>
+  <ol>
+    <li>Deixe as carnes salgadas de molho em água por 12 horas, trocando a água algumas vezes.</li>
+    <li>Cozinhe as carnes em panela de pressão por cerca de 20 minutos, escorra e reserve.</li>
+    <li>Cozinhe o feijão preto em outra panela com as folhas de louro até ficar macio.</li>
+    <li>Em uma panela grande, refogue a cebola e o alho até dourarem.</li>
+    <li>Adicione as carnes e refogue por alguns minutos.</li>
+    <li>Junte o feijão cozido com o caldo e deixe cozinhar em fogo baixo até tudo estar bem incorporado e macio.</li>
+    <li>Ajuste o sal, a pimenta e finalize com cheiro-verde picado.</li>
+  </ol>
+
+  <h3>Dica:</h3>
+  <p>Prepare a feijoada de véspera. O sabor fica ainda melhor no dia seguinte!</p>
+</body>
+</html>
